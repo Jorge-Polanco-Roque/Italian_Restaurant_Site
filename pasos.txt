@@ -1,0 +1,15 @@
+Pasos:
+1) Setting up de Claude: https://code.claude.com/docs/en/setup
+2) MCP Context 7: https://github.com/upstash/context7
+3) Prompt +  "Ultrathink" + MCP + @archivos
+4) Planeación
+5) Creación de CLAUDE.md
+6) Coding
+7) Validación: http://localhost:5173/
+8) Cambios: Manda un pantallazo, aplica un @archivo para solicitar cambios.
+
+
+
+X) Skills - Usar uno para crear subagentes y otro para comando
+X) Subagents - Pruebas
+X) Commands - Subir a github

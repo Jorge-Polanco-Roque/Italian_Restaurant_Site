@@ -1,0 +1,18 @@
+Vamos a crear un sitio web completo para un restaurante italiano llamado 'Bella Italia'. 
+
+Ayuda desde cero hasta tener un sitio funcional con diseño profesional. Aplica ultrathink para crear una página con un diseño minimalista, moderno e italiano. 
+
+Debe de tener las siguientes secciones: 1) Home, 2) Menú, 3) Contacto
+
+Considera los siguientes archivos de imagenes para colocar en sus respectivos lugares:
+- imagen logo: @assets/logo.png  
+- imagen pizza: @assets/pizza.avif 
+- image lasaña: @assets/lasana.jpg 
+- imagen pasta: @assets/pasta.avif 
+- imagen vino: @assets/vino.jpg  
+
+Todos los botones deben de ser funcionales.
+
+Dado a que se hará con REACT, quiero que te conectes al MCP Context7 para utilizar la documentación más actualizada.
+
+Iniciemos con la planeación del proyecto.
