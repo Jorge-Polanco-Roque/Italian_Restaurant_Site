@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(rm:*)",
+      "Bash(cat:*)",
+      "Bash(timeout 5 npm run dev:*)",
+      "Bash(npm run dev:*)",
+      "Bash(awk:*)",
+      "Bash(xargs kill:*)",
+      "Bash(env)",
+      "Read(//Users/A1064331/**)",
+      "Bash(npm cache clean:*)",
+      "Bash(npm install)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
